@@ -1,4 +1,4 @@
 # QuickTake
 
-## 📜 License
+## 📃 License
 MIT License © Harsh Patel
