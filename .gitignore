@@ -5,3 +5,5 @@
 */.ipynb_checkpoints
 
 venv/
+
+model/Summarizer.ipynb
