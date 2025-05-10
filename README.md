@@ -68,7 +68,7 @@ quantized_model.eval()
 ---
 
 ## 🧪 How to Use
-### 1. Option 1: Using the `QuickTake.pt` from GitHub
+### 1. Option 1: Using [`QuickTake.pt`](https://github.com/harshpatel2312/QuickTake/blob/train_model/model/QuickTake.pt)
 
 ```python
 # Load model structure
